@@ -12,7 +12,7 @@ PlayResY: 1080
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 标注,思源黑体 Medium,40,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0,0,0,1
-Style: 注释,思源黑体 Medium,80,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,60,60,0,0,1,3,0,2,30,30,12,1
+Style: 注释,思源黑体 Medium,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,12,1
 Style: 通常,思源黑体 Medium,80,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,12,1
 
 [Events]
