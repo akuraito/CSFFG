@@ -4,13 +4,14 @@
 | :--: | :--: | :--: |
 | 1 | シンパチ/Shinpachi | [[Akuraito] FLCL Grunge - 01.zhs.ass](https://raw.githubusercontent.com/akuraito/CSFFG/main/%5BAkuraito%5D%20FLCL%20Grunge%20-%2001.zhs.ass) |
 | 2 | ショウナリ/Shonari | [[Akuraito] FLCL Grunge - 02.zhs.ass](https://raw.githubusercontent.com/akuraito/CSFFG/main/%5BAkuraito%5D%20FLCL%20Grunge%20-%2002.zhs.ass) |
+| 3 | オリノコ/Orinoko | [[Akuraito] FLCL Grunge - 03.zhs.ass](https://raw.githubusercontent.com/akuraito/CSFFG/main/%5BAkuraito%5D%20FLCL%20Grunge%20-%2003.zhs.ass) |
 
 字体使用：[思源黑体](https://github.com/adobe-fonts/source-han-sans/releases/download/2.004R/SourceHanSans.ttc.zip)
 
 贴吧有佬发过，已经失效不补了，但人总不能饿死，只好自己做饭吃。
 
 - 时间轴由流媒体英语字幕修改而来
-- 字幕样式、文件命名、字体使用以及软件的使用大量的参考了 [SweetSub](https://github.com/SweetSub/SweetSub/)（其实就是抄了）
+- 字幕样式、文件命名、字体及软件的使用大量的参考了 [SweetSub](https://github.com/SweetSub/SweetSub/)（其实就是抄了）
 - 本中文字幕由英文字幕翻译＋日语听译润色完成且含有较多错漏
 
 <details>
