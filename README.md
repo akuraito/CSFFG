@@ -14,7 +14,8 @@
 - 字幕样式、文件命名、字体及软件的使用大量的参考了 [SweetSub](https://github.com/SweetSub/SweetSub/)（其实就是抄了）
 - 本中文字幕由英文字幕翻译＋日语听译润色完成且含有较多错漏
 
-## 翻译对照表
+<details>
+<summary>翻译对照表</summary>
 
 | 原文 | 中文 |
 | :--: | :--: |
@@ -33,7 +34,8 @@
 | ダイナリ | 玳纳里 |
 | ミーナちゃん | 美娜酱 |
 
----
+</details>
+
 <details>
 <summary>碎碎念</summary>
 
