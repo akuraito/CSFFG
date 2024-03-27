@@ -1,10 +1,12 @@
 ## FLCL Grunge 中文字幕
 
-| 集数 | 标题 | 下载链接 |
+| 集数 | 标题 | 文件地址 |
 | :--: | :--: | :--: |
 | 1 | シンパチ/Shinpachi | [[Akuraito] FLCL Grunge - 01.zhs.ass](https://raw.githubusercontent.com/akuraito/CSFFG/main/%5BAkuraito%5D%20FLCL%20Grunge%20-%2001.zhs.ass) |
 | 2 | ショウナリ/Shonari | [[Akuraito] FLCL Grunge - 02.zhs.ass](https://raw.githubusercontent.com/akuraito/CSFFG/main/%5BAkuraito%5D%20FLCL%20Grunge%20-%2002.zhs.ass) |
 | 3 | オリノコ/Orinoko | [[Akuraito] FLCL Grunge - 03.zhs.ass](https://raw.githubusercontent.com/akuraito/CSFFG/main/%5BAkuraito%5D%20FLCL%20Grunge%20-%2003.zhs.ass) |
+
+字幕下载：[Releases](/releases)
 
 字体使用：[思源黑体](https://github.com/adobe-fonts/source-han-sans/releases/download/2.004R/SourceHanSans.ttc.zip)
 
